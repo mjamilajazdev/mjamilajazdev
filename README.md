@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Jamil Ajaz</h1>
 <h3 align="center">A Fullstack Engineer who likes to develop applications used Worldwide</h3>
 
-- 🔭 I’m currently working in **Devsinc**
+- 🔭 I’m currently working **Remotely**
 
 - 💬 Ask me about **Ruby on Rails, React,**
 
