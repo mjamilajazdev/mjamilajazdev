@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working in **Recurso Labs**
 
-- 🌱 I’m currently learning **Next JS and Nest JS**
-
 - 👯 I’m looking to collaborate on **Fintech, Edtech and Healthcare Products**
 
 - 📝 I regularly write articles on [https://medium.com/@m.jamil.ajaz](https://medium.com/@m.jamil.ajaz)
 
-- 💬 Ask me about **Ruby on Rails, React, Node**
+- 💬 Ask me about **Ruby on Rails, React, Node, Next JS and Nest JS**
 
 - 📫 How to reach me **m.jamil.ajaz@gmail.com**
 
