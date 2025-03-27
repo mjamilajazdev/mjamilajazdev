@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjamilajazdev&label=Profile%20views&color=0e75b6&style=flat" alt="mjamilajazdev" /> </p>
 
-- 🔭 I’m currently working in **Recurso Labs**
-
 - 👯 I’m looking to collaborate on **Fintech, Edtech and Healthcare Products**
 
 - 📝 I regularly write articles on [https://medium.com/@m.jamil.ajaz](https://medium.com/@m.jamil.ajaz)
